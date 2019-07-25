@@ -2,4 +2,9 @@
 * Completed watching videos (0 - 62)
 * PDF - Module 0x01 (No exercise done)
 * PDF - Module 0x02 (No exercise done)
-* PDF - Module 0x03 (No exercise done)
+* PDF - Module 0x03 PE (No exercise done)
+
+### 07/24/19
+* PDF - Module 0x04 Bypass AV (No exercise done)
+* PDF - Modeul 0x05 Bypass ASLR (No exercise done)
+* PDF - Module 0x06 Egghunter (no exercise done)
