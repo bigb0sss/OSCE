@@ -7,4 +7,9 @@
 ### 07/24/19
 * PDF - Module 0x04 Bypass AV (No exercise done)
 * PDF - Modeul 0x05 Bypass ASLR (No exercise done)
-* PDF - Module 0x06 Egghunter (no exercise done)
+* PDF - Module 0x06 Egghunter (No exercise done)
+
+### 07/26/19
+* PDF - Module 0x07 Win TFTP (No exercise done)
+* PDF - Module 0x08 HP NNM (No exercise done)
+* PDF - Module 0x09 GRE Sniff (No exercise done)
