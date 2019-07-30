@@ -13,3 +13,7 @@
 * PDF - Module 0x07 Win TFTP (No exercise done)
 * PDF - Module 0x08 HP NNM (No exercise done)
 * PDF - Module 0x09 GRE Sniff (No exercise done)
+
+### 07/28/19
+* Module 0x03 Practice
+
