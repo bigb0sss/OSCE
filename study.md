@@ -21,3 +21,7 @@ My journey to OSCE
 
 ### 07/30/19
 * Module 0x03 Practice (putty.exe)
+
+### 07/31/19
+* Module 0x03 Practice (tftp32.exe)
+
