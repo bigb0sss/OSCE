@@ -24,4 +24,4 @@ My journey to OSCE
 
 ### 07/31/19
 * Module 0x03 Practice (tftp32.exe)
-
+* Module 0x04 Practice (AV bypass)
