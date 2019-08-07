@@ -20,11 +20,16 @@ My journey to OSCE
 * Module 0x03 Practice
 
 ### 07/30/19
-* Module 0x03 Practice (putty.exe)
+* Module 0x03 Practice (putty.exe_1.0)
 
 ### 07/31/19
-* Module 0x03 Practice (tftp32.exe)
-* Module 0x04 Practice (AV bypass)
+* Module 0x03 Practice (tftp32.exe_1.0)
+* Module 0x04 Practice (nc_1.0)
 
 ### 08/01/19
 * Learning about codecave
+
+### 08/06/10
+* Module 0x03 Practice (putty.exe_2.0)
+* Module 0x03 Practice (tftp32.exe_2.0)
+* Module 0x04 Practice (nc_2.0)
