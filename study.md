@@ -33,3 +33,6 @@ My journey to OSCE
 * Module 0x03 Practice (putty.exe_2.0)
 * Module 0x03 Practice (tftp32.exe_2.0)
 * Module 0x04 Practice (nc_2.0)
+
+### 08/07/18
+* Module 0x03 Practice (putty.exe_3.0)
