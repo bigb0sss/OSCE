@@ -29,10 +29,15 @@ My journey to OSCE
 ### 08/01/19
 * Learning about codecave
 
-### 08/06/10
+### 08/06/19
 * Module 0x03 Practice (putty.exe_2.0)
 * Module 0x03 Practice (tftp32.exe_2.0)
 * Module 0x04 Practice (nc_2.0)
 
-### 08/07/18
+### 08/07/19
 * Module 0x03 Practice (putty.exe_3.0)
+
+### 08/18/19
+* MOdule 0x05 ASLR (ANI) Practice
+* Independent ANI Vulnerability Study (MS07-017)
+
