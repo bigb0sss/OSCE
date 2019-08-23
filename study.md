@@ -38,6 +38,12 @@ My journey to OSCE
 * Module 0x03 Practice (putty.exe_3.0)
 
 ### 08/18/19
-* MOdule 0x05 ASLR (ANI) Practice
+* Module 0x05 ASLR (ANI) Practice
 * Independent ANI Vulnerability Study (MS07-017)
+
+### 08/20/19
+* Module 0x06 Egghunter Practice (began)
+
+### 08/22/19
+* Module 0x06 Egghunter Practice (complete)
 
