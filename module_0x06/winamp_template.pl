@@ -2,8 +2,7 @@
 #
 # ============================
 #          Winamp 5.12      
-#       Exploit Skeleton   
-#          by bigb0ss       
+#       Exploit Skeleton                  
 # ============================
 
 
