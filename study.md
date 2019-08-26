@@ -50,5 +50,8 @@ My journey to OSCE
 ### 08/24/19
 * Module 0x06 Egghunter Practice (winamp.exe_1.0)
 
+### 08/25/19
+* Module 0x06 Egghunter Practice (winamp.exe_2.0)
+
 
 
