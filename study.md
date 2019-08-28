@@ -53,5 +53,9 @@ My journey to OSCE
 ### 08/25/19
 * Module 0x06 Egghunter Practice (winamp.exe_2.0)
 
+### 08/27/19
+* Module 0x07 WinTFTP Practice (tftpserver_1.0)
+
+
 
 
