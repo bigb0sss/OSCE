@@ -55,8 +55,10 @@ My journey to OSCE
 
 ### 08/27/19
 * Module 0x07 WinTFTP Practice (tftpserver_1.0)
-* Module 0x07 WinTFTP Practive (tftpserver_2.0)
 
+### 08/28/19
+* Module 0x07 WinTFTP Practice (tftpserver_2.0)
+* Module 0x08 HP NNM Video
 
 
 
