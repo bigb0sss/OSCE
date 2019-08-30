@@ -76,4 +76,5 @@ https://www.harmj0y.net/blog/uncategorized/cracking-the-perimeter-ctp-and-osce-r
 https://dl.packetstormsecurity.net/papers/bypass/bypassing-av.pdf
 ```
 * Module 0x03 PE Practice (putty.exe_4.0)
+* Module 0x03 PE Practice (tftp32.exe_3.0)
 
