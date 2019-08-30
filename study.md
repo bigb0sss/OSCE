@@ -64,3 +64,11 @@ My journey to OSCE
 * Module 0x09 GRE Tunnel Video
 * Module 0x08 HP NNM Youtube
 
+### 08/30/19
+* OSCE Reviews: 
+```
+https://rootkits.xyz/blog/2017/02/osce-ctp-offensive-security/
+https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
+```
+
+
