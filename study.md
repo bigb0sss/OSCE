@@ -60,5 +60,7 @@ My journey to OSCE
 * Module 0x07 WinTFTP Practice (tftpserver_2.0)
 * Module 0x08 HP NNM Video
 
-
+### 08/29/19
+* Module 0x09 GRE Tunnel Video
+* Module 0x08 HP NNM Youtube
 
