@@ -17,25 +17,25 @@ My journey to OSCE
 * PDF - Module 0x09 GRE Sniff (No exercise done)
 
 ### 07/28/19
-* Module 0x03 Practice
+* Module 0x03 PE Practice
 
 ### 07/30/19
-* Module 0x03 Practice (putty.exe_1.0)
+* Module 0x03 PE Practice (putty.exe_1.0)
 
 ### 07/31/19
-* Module 0x03 Practice (tftp32.exe_1.0)
-* Module 0x04 Practice (nc_1.0)
+* Module 0x03 PE Practice (tftp32.exe_1.0)
+* Module 0x04 AV Practice (nc_1.0)
 
 ### 08/01/19
 * Learning about codecave
 
 ### 08/06/19
-* Module 0x03 Practice (putty.exe_2.0)
-* Module 0x03 Practice (tftp32.exe_2.0)
-* Module 0x04 Practice (nc_2.0)
+* Module 0x03 PE Practice (putty.exe_2.0)
+* Module 0x03 PE Practice (tftp32.exe_2.0)
+* Module 0x04 AV Practice (nc_2.0)
 
 ### 08/07/19
-* Module 0x03 Practice (putty.exe_3.0)
+* Module 0x03 PE Practice (putty.exe_3.0)
 
 ### 08/18/19
 * Module 0x05 ASLR (ANI) Practice
