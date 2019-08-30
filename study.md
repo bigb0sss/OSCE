@@ -69,6 +69,7 @@ My journey to OSCE
 ```
 https://rootkits.xyz/blog/2017/02/osce-ctp-offensive-security/
 https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
+https://www.harmj0y.net/blog/uncategorized/cracking-the-perimeter-ctp-and-osce-review/
 ```
 
 
