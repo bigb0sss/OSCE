@@ -80,3 +80,8 @@ https://dl.packetstormsecurity.net/papers/bypass/bypassing-av.pdf
 
 ### 09/02/19
 * Module 0x04 AV Practice (nc_3.0)
+
+### 09/03/19
+* Module 0x08 HP NNM Practice (nnm_1.0)
+
+
