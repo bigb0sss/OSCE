@@ -86,3 +86,6 @@ https://dl.packetstormsecurity.net/papers/bypass/bypassing-av.pdf
 
 ### 09/04/19
 * Module 0x08 HP NNM Practice (nnm_2.0)
+
+### 09/13/19
+* Module 0x05 ASLR (ANI) Practice 
