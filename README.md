@@ -4,6 +4,7 @@
 
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
+* Prep Guide - https://tulpa-security.com/2017/07/18/288/
 
 ## Github
 * Examples - https://github.com/dhn/OSCE
