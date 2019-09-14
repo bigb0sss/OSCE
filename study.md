@@ -89,3 +89,4 @@ https://dl.packetstormsecurity.net/papers/bypass/bypassing-av.pdf
 
 ### 09/13/19
 * Module 0x05 ASLR (ANI) Practice 
+* Module 0x06 Egghunter Practice (winamp.exe_3.0)
