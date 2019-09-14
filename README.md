@@ -36,6 +36,8 @@
   * [Exploit Writing Part 8 - Egghunting](https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/)
   * [Windows Exploit Development Part 5 - Egghunting](http://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/)
 
+* ASLR
+  * [Exploit Writing Part 6 - ASLR](https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/)
 
 ## Exploit Writeups
 * Backdooring PE - [Weaponizing Your Favorite PE](https://medium.com/@daniel.min.pentest/expdev-weaponizing-your-favorite-pe-portable-executable-exploit-c268c0c076c7)
