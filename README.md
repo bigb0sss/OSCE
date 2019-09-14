@@ -40,6 +40,12 @@
 * ASLR
   * [Exploit Writing Part 6 - ASLR](https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/)
 
+* Shellcoding
+  * [Exploit Wrting Part 9 - Shellcoding](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
+  * https://www.fuzzysecurity.com/tutorials/expDev/6.html
+  * http://sh3llc0d3r.com/windows-reverse-shell-shellcode-i/
+  * http://www.vividmachines.com/shellcode/shellcode.html#ws
+
 ## Exploit Writeups
 * Backdooring PE - [Weaponizing Your Favorite PE](https://medium.com/@daniel.min.pentest/expdev-weaponizing-your-favorite-pe-portable-executable-exploit-c268c0c076c7)
 * Winamp 5.12 - [Winamp 5.12 Exploitation using Egghunter](https://medium.com/@daniel.min.pentest/expdev-winamp-5-12-exploitation-using-egghunter-6efb2c8a863b)
