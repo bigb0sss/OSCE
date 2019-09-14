@@ -11,6 +11,8 @@
 
 ## Resources
 * Corelan - https://www.corelan.be/index.php/articles/
+  * Exploit Writing Part 1 - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+  * Exploit Writing Part 2 - https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/
 * FuzzSecurity - http://fuzzysecurity.com/tutorials.html
 * Windows Exploit Development Part 1 - http://www.securitysift.com/windows-exploit-development-part-1-basics/
 * Windows Exploit Development Part 2 - http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/
