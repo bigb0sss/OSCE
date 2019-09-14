@@ -5,6 +5,7 @@
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
 * Prep Guide - https://tulpa-security.com/2017/07/18/288/
+* Mona.py - https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
 
 ## Github
 * Examples - https://github.com/dhn/OSCE
