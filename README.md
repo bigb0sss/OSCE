@@ -12,6 +12,7 @@
 ## Resources
 * Corelan - https://www.corelan.be/index.php/articles/
 * FuzzSecurity - http://fuzzysecurity.com/tutorials.html
+* Windows Exploit Development Part 1 - http://www.securitysift.com/windows-exploit-development-part-1-basics/
 
 ## Exploit Writeups
 * Backdooring PE - [Weaponizing Your Favorite PE](https://medium.com/@daniel.min.pentest/expdev-weaponizing-your-favorite-pe-portable-executable-exploit-c268c0c076c7)
