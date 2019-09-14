@@ -15,10 +15,11 @@
   * [Exploit Writing Part 2 - Buffer Overflow](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
   
 * FuzzSecurity - http://fuzzysecurity.com/tutorials.html
-* [Windows Exploit Development Part 1 - Basics](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
-* [Windows Exploit Development Part 2 - Stack-based Overflow](http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
-* [Windows Exploit Development Part 3 - Offsets](http://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/)
-* [Windows Exploit Development Part 4 - Locating Shellcode JMP](http://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/)
+* SecuritySift - http://www.securitysift.com/
+  * [Windows Exploit Development Part 1 - Basics](http://www.securitysift.com/windows-exploit-development-part-1-basics/)
+  * [Windows Exploit Development Part 2 - Stack-based Overflow](http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
+  * [Windows Exploit Development Part 3 - Offsets](http://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/)
+  * [Windows Exploit Development Part 4 - Locating Shellcode JMP](http://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/)
 * Fuzzing
   * https://resources.infosecinstitute.com/intro-to-fuzzing/
   * https://resources.infosecinstitute.com/fuzzer-automation-with-spike/
