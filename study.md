@@ -91,3 +91,6 @@ https://dl.packetstormsecurity.net/papers/bypass/bypassing-av.pdf
 * Module 0x05 ASLR (ANI) Practice 
 * Module 0x06 Egghunter Practice (winamp.exe_3.0)
 * Module 0x07 WinTFTP Practice (tftpserver_3.0)
+
+### 09/18/19
+* Module 0x08 HP NNM Practice (nnm_3.0)
