@@ -14,6 +14,7 @@
 
 ## Github
 * Examples - https://github.com/dhn/OSCE
+* OSCE_Bible - https://github.com/mohitkhemchandani/OSCE_BIBLE
 
 ## Resources
 * Corelan - https://www.corelan.be/index.php/articles/
