@@ -15,6 +15,7 @@
 ## Github
 * Examples - https://github.com/dhn/OSCE
 * OSCE_Bible - https://github.com/mohitkhemchandani/OSCE_BIBLE
+* FullShade - https://github.com/FULLSHADE/OSCE (*POCs)
 
 ## Resources
 * Corelan - https://www.corelan.be/index.php/articles/
