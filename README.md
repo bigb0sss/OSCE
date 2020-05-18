@@ -1,7 +1,5 @@
 # OSCE
 
-## Reviews
-
 ## Exploit Writeups
 * Backdooring PE - [Weaponizing Your Favorite PE](https://medium.com/@bigb0ss/expdev-weaponizing-your-favorite-pe-portable-executable-exploit-c268c0c076c7)
 * Winamp 5.12 - [Winamp 5.12 Exploitation using Egghunter](https://medium.com/@bigb0ss/expdev-winamp-5-12-exploitation-using-egghunter-6efb2c8a863b)
@@ -11,6 +9,10 @@
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
 * Prep Guide - https://tulpa-security.com/2017/07/18/288/
 * Mona.py - https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
+
+## Reviews
+* Techryptic - [Great Tips](https://techryptic.github.io/2018/12/28/Study-Guide-&-Tips-Offensive-Security-Certified-Expert-(OSCE)-Cracking-The-Perimeter-(CTP)/)
+* Jack Halon - https://jhalon.github.io/OSCE-Review/
 
 ## Github
 * Examples - https://github.com/dhn/OSCE
