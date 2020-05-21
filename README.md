@@ -14,8 +14,8 @@
 |Stack3 |[Stack BOF Basic3](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack3-7db54291f867)  | |
 |Stack4 |[Stack BOF Basic4](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-4-bde92b7b6b38) | |
 |Stack5 |[Stack BOF Shellcode](https://medium.com/bugbountywriteup/expdev-exploit-exercise-protostar-stack-5-c8d085c914e6) | |
-|Stack6 |[Stack BOF ret2libc](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-6-ef75472ec7c6)  |[!] No need for OSCE |
-|Stack7 |[Stack BOF ret2.text](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-7-fea3ac85ffe7) | |
+|Stack6 |[Stack BOF ret2libc](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-6-ef75472ec7c6)  |No need for OSCE |
+|Stack7 |[Stack BOF ret2.text](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-7-fea3ac85ffe7) |No need for OSCE |
 
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
