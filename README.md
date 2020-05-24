@@ -15,7 +15,7 @@
 |Stack4 |[Stack BOF Basic4](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-4-bde92b7b6b38) | |
 |Stack5 |[Stack BOF Shellcode](https://medium.com/bugbountywriteup/expdev-exploit-exercise-protostar-stack-5-c8d085c914e6) | |
 |Stack6 |[Stack BOF ret2libc](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-6-ef75472ec7c6)  | ROP is no need for OSCE |
-|Stack7 |[Stack BOF ret2.text](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-7-fea3ac85ffe7) | ROP is no need for OSCE. But POP; POP; RET concept is great to understand |
+|Stack7 |[Stack BOF ret2.text](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-7-fea3ac85ffe7) | ROP is no need for OSCE. But learn POP; POP; RET concept w/ this |
 
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
