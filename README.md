@@ -31,6 +31,7 @@
 * OSCE_Bible - https://github.com/mohitkhemchandani/OSCE_BIBLE
 * FullShade - https://github.com/FULLSHADE/OSCE (*POCs)
 * h0mbre - https://github.com/h0mbre/CTP-OSCE (*Good helpers)
+* ihack4falafel - https://github.com/ihack4falafel/OSCE
 
 ## Resources
 * Corelan - https://www.corelan.be/index.php/articles/
