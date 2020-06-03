@@ -1,7 +1,7 @@
 # OSCE
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/bigb0sss/OSCE/blob/master/osce.png">
+  <img width="300" height="300" src="https://github.com/bigb0sss/OSCE/blob/master/osce.png">
 </p>
 
 ## Exploit Writeups
