@@ -1,5 +1,9 @@
 # OSCE
 
+<p align="center">
+  <img width="600" height="400" src="https://github.com/bigb0sss/RedTeam/blob/master/redteam_logo_top.png">
+</p>
+
 ## Exploit Writeups
 * Backdooring PE - [Weaponizing Your Favorite PE](https://medium.com/@bigb0ss/expdev-weaponizing-your-favorite-pe-portable-executable-exploit-c268c0c076c7)
 * Winamp 5.12 - [Winamp 5.12 Exploitation using Egghunter](https://medium.com/@bigb0ss/expdev-winamp-5-12-exploitation-using-egghunter-6efb2c8a863b)
