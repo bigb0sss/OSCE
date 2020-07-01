@@ -2,7 +2,7 @@
 #
 # ============================
 #          Winamp 5.12      
-#       Exploit Skeleton   
+#       Exploit Final   
 # ============================
 
 $start= "[playlist]\r\nFile1=\\\\";
