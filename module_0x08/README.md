@@ -1,3 +1,6 @@
+# HP NNM 7.5 Exploit
+* ExploitDB - https://www.exploit-db.com/exploits/5342
+
 ## Description
 It iterates all characters starting from `00` to `FF` and try to identify good and bad chars for that specific software.
 
