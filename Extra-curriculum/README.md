@@ -1,4 +1,4 @@
-# OSCE Exam Extra Curricular
+# OSCE Exam Extra-curriculum
 
 ## Lab Setup
 * 32-bit Win7 VM - https://archive.org/search.php?query=subject%3A%22IEVM%22
