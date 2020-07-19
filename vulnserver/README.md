@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" src="https://github.com/bigb0sss/OSCE/blob/master/vulnserver/top_logo.png">
+  <img width="800" height="300" src="https://github.com/bigb0sss/OSCE/blob/master/vulnserver/top_logo.png">
 </p>
 
 ## Lab Setup
