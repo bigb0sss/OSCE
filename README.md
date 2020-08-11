@@ -27,6 +27,7 @@
 ## Reviews
 * Techryptic - [Great Tips](https://techryptic.github.io/2018/12/28/Study-Guide-&-Tips-Offensive-Security-Certified-Expert-(OSCE)-Cracking-The-Perimeter-(CTP)/)
 * Jack Halon - https://jhalon.github.io/OSCE-Review/
+* Connor McGarr - https://connormcgarr.github.io/CTP-OSCE-Thoughts/
 
 ## Github
 * Examples - https://github.com/dhn/OSCE
