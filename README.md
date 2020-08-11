@@ -70,10 +70,20 @@
   * https://www.fuzzysecurity.com/tutorials/expDev/6.html
   * http://sh3llc0d3r.com/windows-reverse-shell-shellcode-i/
   * http://www.vividmachines.com/shellcode/shellcode.html#ws
+  * Jumping to Shellcode - https://connormcgarr.github.io/CTP-OSCE-Thoughts/
+  * Alphanumeric Shellcod2 1 - https://blog.knapsy.com/blog/2017/05/01/quickzip-4-dot-60-win7-x64-seh-overflow-egghunter-with-custom-encoder/
+  * Alphanumeric Shellcode 2 - https://connormcgarr.github.io/Admin-Express-0day/
+ 
+* Opcode
+  * 32-bit Opcode Table - http://sparksandflames.com/files/x86InstructionChart.html
+  * Types of Jump - http://www.unixwiz.net/techtips/x86-jumps.html
 
 * Web Application
   * XSS - https://excess-xss.com/
   * XSS - https://www.veracode.com/security/xss
+  
+* Windows API
+  * API Tables - https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list
 <br>
 
 ## Reverse Shell
