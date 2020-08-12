@@ -18,6 +18,15 @@
 |Stack6 |[Stack BOF ret2libc](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-6-ef75472ec7c6)  | ROP is no need for OSCE |
 |Stack7 |[Stack BOF ret2.text](https://medium.com/@bigb0ss/expdev-exploit-exercise-protostar-stack-7-fea3ac85ffe7) | ROP is no need for OSCE. But learn POP; POP; RET concept with this |
 
+### Vulnserver ([Vulnserver](https://github.com/stephenbradshaw/vulnserver))
+|Series |Link |Command |Vulnerability | Note |
+| :---  | :---  | :--- | :--- | :--- |
+|Part 1 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-1-ba35b9e36478) | N/A | N/A | Lab Setup |
+|Part 2 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-2-46de4dd7bdde) | TRUN | EIP Overwrite | 
+|Part 3 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-3-24859bd31c0a) | GMON | SEH Overwrite + Short JMP + Egghunter |
+|Part 4 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-4-a5529731f0f1) | KSTET | EIP Overwrite + Short JMP + Egghunter |
+|Part 5 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-5-10942c8c4395) | HTER | EIP Overwrite + Restricted Characters + Manual Offset Finding |
+
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
 * Prep Guide - https://tulpa-security.com/2017/07/18/288/
