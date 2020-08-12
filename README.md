@@ -4,7 +4,6 @@
 
 ## Exploit Writeups
 * Backdooring PE - [Weaponizing Your Favorite PE](https://medium.com/@bigb0ss/expdev-weaponizing-your-favorite-pe-portable-executable-exploit-c268c0c076c7)
-* SEH + Egghunter - [Winamp 5.12 Exploitation using Egghunter](https://medium.com/@bigb0ss/expdev-winamp-5-12-exploitation-using-egghunter-6efb2c8a863b)
 * SEH + Egghunter(Manual Encoding) - [HP OpenView NNM 7.5 Exploitation](https://medium.com/@bigb0ss/expdev-hp-openview-nnm-7-5-exploitation-seh-egghunter-b25ea5fab43f)
 
 ### Exploit Exercise ([Protostar](http://exploit-exercises.lains.space/protostar/))
