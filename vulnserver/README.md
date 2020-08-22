@@ -8,3 +8,14 @@
 * Flare-VM - https://github.com/fireeye/flare-vm
 * boofuzz - https://github.com/jtpereyda/boofuzz (Network Fuzzer)
 * nasmshell - https://github.com/fishstiqz/nasmshell
+<br />
+
+### Vulnserver ([Vulnserver](https://github.com/stephenbradshaw/vulnserver))
+|Series |Link |Command |Vulnerability | Note |
+| :---  | :---  | :--- | :--- | :--- |
+|Part 1 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-1-ba35b9e36478) | N/A | N/A | Lab Setup |
+|Part 2 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-2-46de4dd7bdde) | TRUN | EIP Overwrite | 
+|Part 3 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-3-24859bd31c0a) | GMON | SEH Overwrite + Short JMP + Egghunter |
+|Part 4 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-4-a5529731f0f1) | KSTET | EIP Overwrite + Short JMP + Egghunter |
+|Part 5 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-5-10942c8c4395) | HTER | EIP Overwrite + Restricted Characters + Manual Offset Finding |
+|Part 6 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-6-8c98fcdc9131) | GTER | EIP Overwrite + Socket Reuse Exploit |
