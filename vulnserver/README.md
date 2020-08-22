@@ -10,7 +10,7 @@
 * nasmshell - https://github.com/fishstiqz/nasmshell
 <br />
 
-## Vulnserver Write-ups ([Vulnserver](https://github.com/stephenbradshaw/vulnserver))
+## Vulnserver Writeups ([Vulnserver](https://github.com/stephenbradshaw/vulnserver))
 |Series |Link |Command |Vulnerability | Note |
 | :---  | :---  | :--- | :--- | :--- |
 |Part 1 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-1-ba35b9e36478) | N/A | N/A | Lab Setup |
