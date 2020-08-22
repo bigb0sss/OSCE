@@ -8,7 +8,6 @@
 * Flare-VM - https://github.com/fireeye/flare-vm
 * boofuzz - https://github.com/jtpereyda/boofuzz (Network Fuzzer)
 * nasmshell - https://github.com/fishstiqz/nasmshell
-<br />
 
 ## Vulnserver Writeups ([Vulnserver](https://github.com/stephenbradshaw/vulnserver))
 |Series |Link |Command |Vulnerability | Note |
