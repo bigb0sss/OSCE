@@ -26,6 +26,7 @@
 |Part 3 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-3-24859bd31c0a) | GMON | SEH Overwrite + Short JMP + Egghunter |
 |Part 4 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-4-a5529731f0f1) | KSTET | EIP Overwrite + Short JMP + Egghunter |
 |Part 5 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-5-10942c8c4395) | HTER | EIP Overwrite + Restricted Characters + Manual Offset Finding |
+|Part 6 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-6-8c98fcdc9131) | GTER | EIP Overwrite + Socket Reuse Exploit |
 
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
