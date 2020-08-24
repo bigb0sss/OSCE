@@ -27,6 +27,7 @@
 |Part 4 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-4-a5529731f0f1) | KSTET | EIP Overwrite + Short JMP + Egghunter |
 |Part 5 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-5-10942c8c4395) | HTER | EIP Overwrite + Restricted Characters + Manual Offset Finding |
 |Part 6 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-6-8c98fcdc9131) | GTER | EIP Overwrite + Socket Reuse Exploit |
+|Part 7 |[Read](https://medium.com/@bigb0ss/expdev-vulnserver-part-7-bfe9fb5fd1e6) | LTER | SEH Overwrite + Restricted Characters + Encoded Payloads |
 
 ## Links
 * Study Plan - https://www.abatchy.com/2017/03/osce-study-plan
