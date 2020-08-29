@@ -88,6 +88,7 @@
 * Opcode
   * 32-bit Opcode Table - http://sparksandflames.com/files/x86InstructionChart.html
   * Types of Jump - http://www.unixwiz.net/techtips/x86-jumps.html
+  * ASM Assembler/Dissambler - https://defuse.ca/online-x86-assembler.htm#disassembly
 
 * Web Application
   * XSS - https://excess-xss.com/
